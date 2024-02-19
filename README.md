@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusher32&label=Profile%20views&color=0e75b6&style=flat" alt="rusher32" /> </p>
 
-- 🔭 I’m currently working on **Projects using NodeJs,Express and MongoDB.**
+- 🔭 I’m currently working on **Projects using ReactJS,NextJS and MongoDB.**
 
-- 🌱 I’m currently learning **Backend Development with NodeJs using Express along with MongoDB as a database.**
+- 🌱 I’m currently learning **Full Stack Development with React Framework, NextJS.**
 
-- 💬 Ask me about **Javascript,Nodejs, Express,MongoDB and manymore.**
+- 💬 Ask me about **Javascript,Nodejs, Express,MongoDB, MySQL, ReactJS, NextJS and manymore.**
 
 - 📫 How to reach me **mishraprayash00@gmail.com**
 
