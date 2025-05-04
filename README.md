@@ -1,30 +1,82 @@
+<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50;">Prayash Mishra</span></h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer & Lifelong Learner</h3>
 
-<h1 align="center">Hi 👋, I'm Prayash Mishra</h1>
-<h3 align="center">A Computer Engineering student,an enthusiast and a passionate learner.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rusher32&label=Profile%20views&color=0e75b6&style=flat" alt="rusher32" /> </p>
-
-- 🔭 I’m currently working on **Projects using ReactJS,NextJS and MongoDB.**
-
-- 🌱 I’m currently learning **Full Stack Development with React Framework, NextJS.**
-
-- 💬 Ask me about **Javascript,Nodejs, Express,MongoDB, MySQL, ReactJS, NextJS and manymore.**
-
-- 📫 How to reach me **mishraprayash00@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prayash-mishra-5a409422b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prayash-mishra-5a409422b/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mishraprayash0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mishraprayash0" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hero321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/hero321" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rusher32&label=Profile%20views&color=0e75b6&style=flat" alt="rusher32" />
+  <img src="https://img.shields.io/github/followers/mishraprayash?label=Followers&style=social" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishraprayash&show_icons=true&locale=en&layout=compact" alt="mishraprayash" /></p>
+### 🌟 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishraprayash&show_icons=true&locale=en" alt="mishraprayash" /></p>
+- 🎓 **Computer Engineering** undergrad, curious by nature and driven by code.
+- 🔭 Currently building **cool projects** with React, Next.js & MongoDB.
+- 🌱 Exploring the depths of **Full Stack Web Development**.
+- 🧠 Problem-solving enthusiast: regularly active on **Codeforces** and **CodeChef**.
+- 💬 Ask me anything about:  
+  **JavaScript**, **Node.js**, **Express**, **MongoDB**, **React**, **Next.js**, and more.
+- 📫 Reach me at: **[mishraprayash00@gmail.com](mailto:mishraprayash00@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishraprayash&" alt="mishraprayash" /></p>
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prayash-mishra-5a409422b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/mishraprayash0" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/hero321" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mishraprayash&show_icons=true&theme=github_dark&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mishraprayash&layout=compact&theme=github_dark&hide_border=true" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishraprayash&theme=dark&hide_border=true" width="90%"/>
+</div>
+
+---
+
+### 🎯 Current Goals
+
+- 📘 Building scalable **MERN/Next.js** projects.
+- 📚 Preparing for **tech interviews** and improving DSA.
+- 💡 Contributing to **Open Source** and tech communities.
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+
+---
 
