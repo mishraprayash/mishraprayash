@@ -3,14 +3,12 @@
 <p align="center"><strong>Specializing in Cloud-Native Microservices, Event-Driven Architectures, and Intelligent Agents.</strong></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rusher32&label=Profile%20views&color=0e75b6&style=flat" alt="rusher32" />
   <img src="https://img.shields.io/github/followers/mishraprayash?label=Followers&style=social" />
 </p>
 
 <p align="center">
   <a href="mailto:mishraprayash00@gmail.com">📬 Email Me</a> • 
-  <a href="https://www.linkedin.com/in/prayash-mishra-5a409422b/">💼 LinkedIn</a> •
-  <a href="https://codeforces.com/profile/hero321">🏆 Competitive Programming</a>
+  <a href="https://www.linkedin.com/in/prayash-mishra-5a409422b/">💼 LinkedIn</a>
 </p>
 
 ---
