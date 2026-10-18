@@ -62,11 +62,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishraprayash&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mishraprayash&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishraprayash&theme=dark&hide_border=true" width="97%"/>
 </div>
 
